@@ -1,6 +1,8 @@
 ## Assignment 3
 
 Subited by Dhruv Doshi
+Would suggest to open this readme file on the github or any other cloud platform because of the imagea and GIF.
+Please visit: https://github.com/DhruvDoshi/public-gif/blob/master/Readme.md
 
 Project name: WeCare Solutions - Hospital Management System
 Individual Module
@@ -71,3 +73,7 @@ There are multiple Job posts whicha re up and there are multiple users which had
 
 
 ![Job rating by User](https://github.com/DhruvDoshi/public-gif/blob/master/Screen%20Shot%202022-03-29%20at%204.48.12%20PM.png)
+
+
+Please find the code for the feature along with the master repository of the whole application. Everything is completely integrated with the application.
+For any other information please ping me on slack or Dhruv@dal.ca. Looking forward for your feedback.
