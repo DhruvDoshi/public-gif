@@ -55,10 +55,11 @@ The application is already deployed with <a href="https://csci5709-group9.heroku
 * [MongoDB](https://www.mongodb.com) - Database Utilization
 
 
-Project name: WeCare Solutions - Hospital Management System
-Individual Module
-Feature 1: Carrer Page User side
-Feature 2: Carrer Management Recruiter Side
+
+## Individual Module
+
+* Feature 1: Carrer Page User side
+* Feature 2: Carrer Management Recruiter Side
 
 Feature 1 is complete and most of the feature, for Feature 2 is also working.
 
@@ -76,28 +77,19 @@ This called for restructing and redoing the whole flow of the system but came up
 
 Developing this alternative way the whole application was esclaped in the single repository but it allowed us to have future scope to get the resume and save it as this specific part was deployed with EC2 Instance which would allow us to have EBS or S3 in which these files could be stored of Instead of MongoDB.
 
+
+## Overview
+
 Here is an overview which shows that how to register using the MERN app.
 
 ![MERN APP LOGIN](https://github.com/DhruvDoshi/public-gif/blob/master/Login.gif)
 
 This is just an GIF which shows that how to look into the application and how to deal with the interface.
 
-### A3.1
-
-Gitlab Repository: https://git.cs.dal.ca/choksi/webproject
-Deployment Link: 
-
-### A3.2
-
-Feature to be developed: User Career Site
-
-### A3.4
-
 As mention before there had been significant changes within the proposed approach and at the end of the developemnt it is evident that the alternative solution which had been used is more better.
 
-### A3.5
-
 There are multiple Job posts whicha re up and there are multiple users which had applied for the job. the application is well running and there is no random information within the application. Here are some screenshots and relevant information.
+<div align="center">
 
 ![Job Board for Applicant](https://github.com/DhruvDoshi/public-gif/blob/master/Screen%20Shot%202022-03-29%20at%204.34.00%20PM.png)
 
@@ -125,6 +117,7 @@ There are multiple Job posts whicha re up and there are multiple users which had
 
 ![Job rating by User](https://github.com/DhruvDoshi/public-gif/blob/master/Screen%20Shot%202022-03-29%20at%204.48.12%20PM.png)
 
+</div>
 
 Please find the code for the feature along with the master repository of the whole application. Everything is completely integrated with the application.
 For any other information please ping me on slack or Dhruv@dal.ca. Looking forward for your feedback.
