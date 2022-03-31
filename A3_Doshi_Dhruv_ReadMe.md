@@ -190,5 +190,22 @@ Dashboards for EC2 and MongoDB deployment
 
 </div>
 
+
+## References:
+
+1. Refered Internet for Itels Align Center URL https://stackoverflow.com/questions/68991601/display-flex-jobTypes-align-center
+2. Style Components Material UI URL: https://stackoverflow.com/questions/56432167/how-to-style-components-using-makestyles-and-still-have-lifecycle-methods-in-mat
+3. Constant Values to be change URL: https://stackoverflow.com/questions/42490821/const-value-can-be-change
+4. Colour Combinations URL: https://encycolorpedia.com/
+5. Modules Integration URL: https://www.youtube.com/watch?v=lIrN-LbbBnw
+6. Node Mjs web app for scrapping URL: https://www.freecodecamp.org/news/how-i-built-a-job-scraping-web-app-using-node-js-and-indreed-7fbba124bbdc/
+7. MERN Job Portal app: https://codecapsules.io/docs/tutorials/build-mern-job-board/
+8. Job Portal URL: https://github.com/b30wulffz/job-portal
+9. MERN Stack Job POrtal App: https://www.udemy.com/course/mern-stack-job-portal-app-react-redux-node-mongo-2021/
+10. Mern stack AWS: https://github.com/thevarunjain/job-portal-mern-stack
+11. Mern stack job app: https://tutflix.org/resources/mern-stack-job-portal-app-react-redux-node-mongo-2021.5289/
+
+
+
 Please find the code for the feature along with the master repository of the whole application. Everything is completely integrated with the application.
 For any other information please ping me on slack or Dhruv@dal.ca. Looking forward for your feedback.
