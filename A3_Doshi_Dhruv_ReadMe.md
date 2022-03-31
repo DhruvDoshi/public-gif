@@ -1,3 +1,5 @@
+## PLEASE USE WEB VERSION OF THIS README ON https://github.com/DhruvDoshi/public-gif/blob/master/A3_Doshi_Dhruv_ReadMe.md
+
 # WeCare Solutions
 
 One place solution for all the hospital management needs. Web App which provides access to patient and doctors both and have multiple utilities like Careers, Blogs, Bookings and many more.
