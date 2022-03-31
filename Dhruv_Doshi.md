@@ -171,6 +171,17 @@ There are multiple Job posts whicha re up and there are multiple users which had
 
 ![Job rating by User](https://github.com/DhruvDoshi/public-gif/blob/master/Screen%20Shot%202022-03-29%20at%204.48.12%20PM.png)
 
+<br>
+
+Dashboards for EC2 and MongoDB deployment
+
+![EC2 Dashboard](https://github.com/DhruvDoshi/public-gif/blob/master/Screen%20Shot%202022-03-31%20at%203.15.43%20PM.png)
+
+
+![MongoDB](https://github.com/DhruvDoshi/public-gif/blob/master/Screen%20Shot%202022-03-31%20at%203.16.08%20PM.png)
+
+
+
 </div>
 
 Please find the code for the feature along with the master repository of the whole application. Everything is completely integrated with the application.
