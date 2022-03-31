@@ -115,7 +115,34 @@ This is just an GIF which shows that how to look into the application and how to
 
 As mention before there had been significant changes within the proposed approach and at the end of the developemnt it is evident that the alternative solution which had been used is more better.
 
+
+
+## Code Integration Steps
+1. Started with devlopment of individual features by putting the blank react app on the mail.
+2. Every member made their own branch or had an option to develop of other repo and then push to the branch of their choise.
+3. The basic application was developed by sanika tomar, she was in charge of user management and the authorisation module. Everyone contacted her and she managed the routing of all the application.
+4. As my module used working with the .pdf files and we were not allowed to directly use any pre developed API hence my module needed to be hosted with the space where files could be stored of hence the backend was hosted on ec2 server and then it was integrated with the main system.
+5. There were multiple merge conflicts which resulted due to our mistake of nut doing fresh pul before the push but we all sat together before the deadline and one by one merged everyone's code in the master repository.
+6. This was one of the most time consuming part for the development as the deployment was failing continously when there was a single error. Still be continued and finally we did it.
+
+## Learnings
+1. Never push the code before fresh pull.
+2. Always stash the code as it will save the copy.
+3. It is easy to use heroku cli for the deployment but prefer the pipeline which automates the deployment.
+4. Always have the node test and the buils stage in the pipeline which would reject the merge or commit if the app if failing.
+5. Prefer EC2 or any other linux server for the deployment of the application over heroku or vercel. They do not provide the interactive bash which results in issues solving the error.
+
+
+
+
 There are multiple Job posts whicha re up and there are multiple users which had applied for the job. the application is well running and there is no random information within the application. Here are some screenshots and relevant information.
+
+
+
+
+
+
+
 <div align="center">
 
 ![Job Board for Applicant](https://github.com/DhruvDoshi/public-gif/blob/master/Screen%20Shot%202022-03-29%20at%204.34.00%20PM.png)
@@ -145,22 +172,6 @@ There are multiple Job posts whicha re up and there are multiple users which had
 ![Job rating by User](https://github.com/DhruvDoshi/public-gif/blob/master/Screen%20Shot%202022-03-29%20at%204.48.12%20PM.png)
 
 </div>
-
-## Code Integration Steps
-1. Started with devlopment of individual features by putting the blank react app on the mail.
-2. Every member made their own branch or had an option to develop of other repo and then push to the branch of their choise.
-3. The basic application was developed by sanika tomar, she was in charge of user management and the authorisation module. Everyone contacted her and she managed the routing of all the application.
-4. As my module used working with the .pdf files and we were not allowed to directly use any pre developed API hence my module needed to be hosted with the space where files could be stored of hence the backend was hosted on ec2 server and then it was integrated with the main system.
-5. There were multiple merge conflicts which resulted due to our mistake of nut doing fresh pul before the push but we all sat together before the deadline and one by one merged everyone's code in the master repository.
-6. This was one of the most time consuming part for the development as the deployment was failing continously when there was a single error. Still be continued and finally we did it.
-
-## Learnings
-1. Never push the code before fresh pull.
-2. Always stash the code as it will save the copy.
-3. It is easy to use heroku cli for the deployment but prefer the pipeline which automates the deployment.
-4. Always have the node test and the buils stage in the pipeline which would reject the merge or commit if the app if failing.
-5. Prefer EC2 or any other linux server for the deployment of the application over heroku or vercel. They do not provide the interactive bash which results in issues solving the error.
-
 
 Please find the code for the feature along with the master repository of the whole application. Everything is completely integrated with the application.
 For any other information please ping me on slack or Dhruv@dal.ca. Looking forward for your feedback.
