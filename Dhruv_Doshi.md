@@ -81,9 +81,11 @@ Developing this alternative way the whole application was esclaped in the single
 ## Overview
 
 Here is an overview which shows that how to register using the MERN app.
+<div align="center">
 
 ![MERN APP LOGIN](https://github.com/DhruvDoshi/public-gif/blob/master/Login.gif)
 
+</div>
 This is just an GIF which shows that how to look into the application and how to deal with the interface.
 
 As mention before there had been significant changes within the proposed approach and at the end of the developemnt it is evident that the alternative solution which had been used is more better.
