@@ -2,6 +2,11 @@
 
 One place solution for all the hospital management needs. Web App which provides access to patient and doctors both and have multiple utilities like Careers, Blogs, Bookings and many more.
 
+Gitlab: https://git.cs.dal.ca/choksi/webproject/
+Heroku: https://csci5709-group9.herokuapp.com/
+
+Credit: Harivansh Bhatiya for Heroku
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
